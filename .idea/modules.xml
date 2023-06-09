@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphSudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphSudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GraphSudoku.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
